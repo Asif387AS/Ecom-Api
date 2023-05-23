@@ -17,7 +17,7 @@
     "id": "TayyabaSanab",
     "name": "samsung s20",
     "company": "samsung",
-    "price": 5000000,
+    "price": 5,
     "colors": [
     "#000",
     "#22D3EF"
@@ -149,5 +149,15 @@
     "company": "samsung",
     "category": "watch",
     "featured": true
+    },
+    {
+    "id": "TayyabaSan8",
+    "name": "galaxy w20",
+    "price": 311999,
+    "company": "samsung",
+    "category": "watch",
+    "featured": true
     }
+   
+        
 ]
